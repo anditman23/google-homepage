@@ -1,0 +1,1 @@
+In this project, I'll decontrust an existing web page and rebuild it. I'll learn how elements get placed on the page and roughly how they'll get styled and aligned. 
